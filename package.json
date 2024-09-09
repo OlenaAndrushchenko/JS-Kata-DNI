@@ -2,7 +2,7 @@
   "name": "js-kata-dni",
   "version": "1.0.0",
   "description": "",
-  "main": "dni.js",
+  "main": "app.js",
   "scripts": {
     "test": "vitest"
   },

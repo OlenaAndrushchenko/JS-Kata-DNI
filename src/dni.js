@@ -1,6 +1,6 @@
-import { lettersDni } from "./lettersDni";
+import { lettersDni } from "./lettersDni.js";
 
-class DNI {
+export class DNI {
     constructor(number) {
         if (!Number.isInteger(number) || number < 0 || number > 99999999) {
             throw new Error('The input is incorrect');

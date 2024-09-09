@@ -1,0 +1,17 @@
+{
+  "name": "js-kata-dni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dni.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.0.1"
+  },
+  "dependencies": {
+    "js-kata-dni": "file:"
+  }
+}

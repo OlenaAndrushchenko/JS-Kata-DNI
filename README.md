@@ -14,3 +14,7 @@ Calculate the letter of the DNI (National Identity Document).
 - Depending on the result, from 0 to 22, it will correspond to one of the following letters: (T, R, W, A, G, M, Y, F, P, D, X, B, N, J, Z, S, Q, V, H, L, C, K, E).
 - If the input is not a valid number, a message should indicate that "the input is incorrect" and ask again.
 - The process should repeat until the user presses "cancel."
+
+## Test
+
+![Tests](src/images/js-kata-dni.png)
